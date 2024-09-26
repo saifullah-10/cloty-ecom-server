@@ -1,5 +1,7 @@
 import express,{Router} from 'express'
-import { test } from '../../controllers/auth/auth'
+import { loginUser, registerUser } from '../../controllers/auth/auth'
+
 export default (router: Router)=>{
-router.get('/auth', test)
+router.post('/auth/register', registerUser)
+router.post('/auth/login', loginUser)
 }

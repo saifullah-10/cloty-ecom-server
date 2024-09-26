@@ -1,1 +1,1 @@
-{"version":3,"file":"authRoute.js","sourceRoot":"","sources":["../../../src/router/auth/authRoute.ts"],"names":[],"mappings":";;AACA,sDAAkD;AAClD,kBAAe,CAAC,MAAc,EAAC,EAAE;IACjC,MAAM,CAAC,GAAG,CAAC,OAAO,EAAE,WAAI,CAAC,CAAA;AACzB,CAAC,CAAA"}
+{"version":3,"file":"authRoute.js","sourceRoot":"","sources":["../../../src/router/auth/authRoute.ts"],"names":[],"mappings":";;AACA,sDAAqE;AAErE,kBAAe,CAAC,MAAc,EAAC,EAAE;IACjC,MAAM,CAAC,IAAI,CAAC,gBAAgB,EAAE,mBAAY,CAAC,CAAA;IAC3C,MAAM,CAAC,IAAI,CAAC,aAAa,EAAE,gBAAS,CAAC,CAAA;AACrC,CAAC,CAAA"}
